@@ -10,7 +10,8 @@ namespace ConsoleProject_1
     {
         public MyNewClass()
         {
-            Console.WriteLine("Команда разработчиков - 1");
+
+            Console.WriteLine("Команда разработчиков 1");
         }
     }
 }
